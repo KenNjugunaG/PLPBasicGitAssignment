@@ -5,9 +5,12 @@ Step1: Created a Repository called PLPBasicGitAssignment on GitHub
 
 Step2: Created a folder on my PC called PLPBasicGitAssignment
 
-Step3: Right clicked on the PLPBasicGitAssignment folder on my PC and clicked the "Open Git Bash here"
+Step3: Right clicked on the PLPBasicGitAssignment folder on my PC and clicked the "Open Git Bash here" to open my Git Bash Window
 
 Step4: created a txt file in Vs Code called "hello.txt" and saved it on my pc folder "PLPBasicGitAssignment"
+
+--
+**Steps undertaked on my Git Bash Window**
 
 Step5: typed the command $git init to initialize a git repository on my local folder
 
